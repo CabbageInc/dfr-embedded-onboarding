@@ -66,6 +66,7 @@ int main(){
     // free up heap memory for nums array
     free(nums);
 
-    printf("\nApplication completed successfully\r\n");
+    // indicate successful completion
+    printf("\nApplication completed successfully.\r\n");
     return 0;
 }
