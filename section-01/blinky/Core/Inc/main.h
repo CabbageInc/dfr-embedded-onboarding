@@ -31,7 +31,7 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "stm32f0xx_hal_gpio.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
